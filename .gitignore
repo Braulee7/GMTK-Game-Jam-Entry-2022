@@ -3,3 +3,5 @@
 *.meta
 Builds
 Logs
+Library/Artifacts/36
+*lld
